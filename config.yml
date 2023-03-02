@@ -107,6 +107,10 @@ menu:
       name: Tags
       url: /tags/
       weight: 30
+    - identifies: about
+      name: About
+      url: /about/
+      weight: 40
 
 pygmentsUseClasses: true
 markup:
