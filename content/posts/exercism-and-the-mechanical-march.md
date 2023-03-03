@@ -12,7 +12,7 @@ To make the process smoother and more efficient, I prepared a Nix flake that wou
 
 With the Nix flake, I was able to quickly and easily set up my development environment for the Golang track, install all the necessary dependencies, and start working on the exercises. This saved me a lot of time and hassle, as I didn't have to worry about managing dependencies manually or dealing with version conflicts.
 
-The tracks on Exercism is a great way to learn a programming language and practice writing idiomatic code. The exercises are challenging but also fun and rewarding, and the feedback from the community is incredibly helpful in improving your skills.
+The tracks on Exercism are a great way to learn a programming language and practice writing idiomatic code. The exercises are challenging but also fun and rewarding, and the feedback from the community is incredibly helpful in improving your skills.
 
 If you're interested in taking on the Mechanical March challenge or learning Golang in general, I highly recommend checking out the Exercism Golang track and using a Nix flake to streamline your development process. Happy coding!
 
