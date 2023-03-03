@@ -2,7 +2,7 @@
 title: "Mechanical March Challenge: Learning Golang with the Help of a Nix Flake"
 date: 2023-03-02T15:15:22-03:00
 draft: false
-tags: [exercism, 12in23, golang, nix, study]
+tags: [exercism, 12in23 challenge, golang, nix, study]
 comments: true
 ---
 
