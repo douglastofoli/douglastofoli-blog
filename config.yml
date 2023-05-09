@@ -66,6 +66,8 @@ params:
       url: "https://www.linkedin.com/in/douglastofoli/"
     - name: GitHub
       url: "https://github.com/douglastofoli"
+    - name: Twitter
+      url: "https://twitter.com/douglex"
 
   analytics:
     google:
