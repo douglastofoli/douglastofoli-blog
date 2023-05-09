@@ -16,12 +16,10 @@ cover:
 
 ### Hi, there!
 
-Good to see you! Welcome to my new blog, 2023 version!
+It's great to see you! Welcome to the 2023 version of my blog. I have big plans for this year, and one of them is to bring you more content with this new blog, which may be a bit simpler in design, but will have more frequent posts (I'll do my best!).
 
-I have big plans for this year, one these is this new blog. A bit more simple, but with more posts (I'll try my best).
+You'll notice that below the title of this post and next to my name as the author, there's a hyperlink that leads to my repository on GitHub. Now, you have the option to suggest changes or improvements to my blog. I'm always open to feedback, and I believe this will help us make the blog better together.
 
-In this new website you will find below the title of this post and next to the author name a hiperlink that leave you to my repository on GitHub. Now you can suggest changes in case you find something wrong or something that can be do it better.
+Additionally, I'm thinking of opening up the blog to guest posts. If you have an idea or something you'd like to share, send it over to me, and I'll review your text. If approved, your post will appear on the blog with your name as the author. This is still a test, but I'm excited about the potential to expand our community and collaborate with other writers.
 
-I think you can also sent to me a post. I review your text and if approved, your text appears here with your name. But this is only a test. I hope that I can realize all my ideias soon.
-
-I say bye here, but not a goodbye. Soon you'll see more posts here.
+That's it for now, but don't worry, there will be plenty more posts coming your way soon. Thanks for checking out my blog!
